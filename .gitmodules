@@ -1,0 +1,6 @@
+[submodule "lib/James-Randalls-Balls"]
+	path = lib/James-Randalls-Balls
+	url = git@github.com:REX-lighting/James-Randalls-Balls.git
+[submodule "lib/James-Randalls-Fluid"]
+	path = lib/James-Randalls-Fluid
+	url = git@github.com:REX-lighting/James-Randalls-Fluid.git
