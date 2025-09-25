@@ -6,14 +6,7 @@ These are controlled with a MIDI controller. For developing with a different con
 For new users I would suggest launching the file and moving around the sliders to see what happens.
 
 # To setup the MIDI Controler as input
-
-![Drop down picture](images/Midi-Controler-Drop-Down.png)
-
-![Add device picture](images/Add-Device.png)
-
-![Add mapping picture](images/Device-Mapping.png)
-
-The video [here](https://alltd.org/basic-midi-keyboard-visualisation-touchdesigner-tutorial/) has the mapping setup
+Go to the folder midi controller setup
 
 
 
