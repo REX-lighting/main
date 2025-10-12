@@ -12,10 +12,10 @@
 
 Once this is done you should be able to display videos, but owe noes, rekirdbox is adding a bar across. We will get around this by modifying the video so the bar is ontop of nothing, then modiftying the screen.
 
-To modify your music videos to be outside the bar that recordbox has there is a helper function
+To modify your music videos to be outside the bar that recordbox has there is a helper function. This runs the python file on the first mp4, outputs to the second mp4, then makes sure to use the resolution specified at the end
 
 ```
-python3 convert_music.py videos/test_input.mp4
+python3 convert_music.py videos/sample.mp4 output.mp4 1280 720 
 ```
 
 It also supports output information after. This will add a gap inbetween your video (this will be removed later)
