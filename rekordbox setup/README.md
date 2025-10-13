@@ -27,3 +27,14 @@ Make sure to have extend display. This is a good [video](https://www.youtube.com
 Use the broadcast_screen.toe to broadcast to people on your local network. This file also removes the gap added to your video.
 
 Use the ndi_out.tox to capture this for visuals
+
+
+### Side notes
+
+There needs to be a networking connection between the computers.
+
+1. Using wireless while on same network is slow
+
+2. Can instead plug the computers directly together with ethernet. This requires setting static ip addresses on both machines. A good tutorial for win10 is [here](https://www.youtube.com/watch?v=uZhhZC68aPM). 
+
+3. Can use a router as a DHCP server and just plug directly into it to get assigned addresses.
