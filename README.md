@@ -8,5 +8,6 @@ For new users I would suggest launching the file and moving around the sliders t
 # To setup the MIDI Controler as input
 Go to the folder midi controller setup
 
-
+# Adding hardcoded videos
+Add videos you want to mix with into the video folder. There is a tox that will retreive from this location
 
